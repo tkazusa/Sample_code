@@ -3,7 +3,7 @@
 In order to show how I understand statistical theories and machine learning argolithms, I applied knowledge to analyse some data sets and also coded some argolithms from textbooks. 
 
 ##Machine learning algorighms
-In order to understand theoritically and be able to use knowledge practically, Algorithms were coded from scratch.
+In order to understand theoritically and be able to use knowledge practically, Algorithms were coded from scratch with Python(Pandas, Scipy, Numpy).
 Algorithms comes from following book. The numbering indicate the capter number of the book.
 
 Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer
