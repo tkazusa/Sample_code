@@ -6,7 +6,9 @@ In order to show how I understand statistical theories and machine learning argo
 In order to understand theoritically and be able to use knowledge practically, Algorithms were coded from scratch with Python(Pandas, Scipy, Numpy) and figures on the texbook are reproduced from understanding of equations.
 Algorithms comes from following book. The numbering indicate the capter number of the book.
 
+<div style="text-align: center;">
 <img src="http://i.imgur.com/ooiHoAH.jpg" alt="PRMLル" title="サンプル">
+</div>
 
 Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer
 
