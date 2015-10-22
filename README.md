@@ -1,7 +1,9 @@
-# Python_MachineLeaning
+# Sample Code
 
-In order to show how I understand statistical theories and machine learning argolithms, I wrote some argolithms which comes from some text book.
+In order to show how I understand statistical theories and machine learning argolithms, I applied knowledge to analyse some data sets and also coded some argolithms from textbooks. 
 
-##Text Book
+##Machine learning algorighms
+In order to understand theoritically and be able to use knowledge practically, Algorithms were coded from scratch.
+Algorithms comes from following book.
 Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer
 
