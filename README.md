@@ -10,7 +10,7 @@ Algorithms comes from following book. The numbering indicate the capter number o
 
 Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer
 
-[1.1 Polynomial Curve Fitting](http://nbviewer.ipython.org/github/tkazusa/Python_MachineLeaning/blob/master/1.1%20Polynomial%20Curve%20Fitting.ipynb)
+[1.1 Polynomial Curve Fitting](https://github.com/tkazusa/Python_MachineLeaning/blob/master/1.1%20Polynomial%20Curve%20Fitting.ipynb)
 
 [1.2 Bayesian curve fitting](http://nbviewer.ipython.org/github/tkazusa/Python_MachineLeaning/blob/master/1.2.6%20Bayesian%20curve%20fitting.ipynb)
 
