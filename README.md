@@ -7,7 +7,9 @@ In order to understand theoritically and be able to use knowledge practically, A
 Algorithms comes from following book. The numbering indicate the capter number of the book.
 
 http://imgur.com/i7iB0nI
+[Imgur](http://i.imgur.com/ooiHoAH.jpg)
 
+<img src="http://i.imgur.com/ooiHoAH.jpg" alt="PRMLル" title="サンプル">
 <img src="http://i.imgur.com/Jjwsc.jpg" alt="エビフライトライアングル" title="サンプル">
 
 Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer
