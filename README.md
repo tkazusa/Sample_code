@@ -8,6 +8,8 @@ Algorithms comes from following book. The numbering indicate the capter number o
 
 http://imgur.com/i7iB0nI
 
+<img src="http://i.imgur.com/Jjwsc.jpg" alt="エビフライトライアングル" title="サンプル">
+
 Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer
 
 [1.1 Polynomial Curve Fitting](http://nbviewer.ipython.org/github/tkazusa/Python_MachineLeaning/blob/master/1.1%20Polynomial%20Curve%20Fitting.ipynb)
