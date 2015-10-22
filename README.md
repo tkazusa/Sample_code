@@ -6,6 +6,8 @@ In order to show how I understand statistical theories and machine learning argo
 In order to understand theoritically and be able to use knowledge practically, Algorithms were coded from scratch with Python(Pandas, Scipy, Numpy) and figures on the texbook are reproduced from understanding of equations.
 Algorithms comes from following book. The numbering indicate the capter number of the book.
 
+![PRML](http://imgur.com/i7iB0nI)
+
 Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer
 
 [1.1 Polynomial Curve Fitting](http://nbviewer.ipython.org/github/tkazusa/Python_MachineLeaning/blob/master/1.1%20Polynomial%20Curve%20Fitting.ipynb)
