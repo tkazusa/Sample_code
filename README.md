@@ -5,5 +5,7 @@ In order to show how I understand statistical theories and machine learning argo
 ##Machine learning algorighms
 In order to understand theoritically and be able to use knowledge practically, Algorithms were coded from scratch.
 Algorithms comes from following book.
+
+
 Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer
 
