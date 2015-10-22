@@ -9,3 +9,5 @@ Algorithms comes from following book.
 
 Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer
 
+http://nbviewer.ipython.org/github/tkazusa/Python_MachineLeaning/blob/master/5.1%20Neural%20netowrks.ipynb
+
