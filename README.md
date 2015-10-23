@@ -2,7 +2,7 @@
 
 In order to show how I understand statistical theories and machine learning argolithms, I applied knowledge to analyse some data sets and also coded some argolithms from textbooks. 
 
-_FireFox may not work correctly, especially rendering equations. Please browse with Chrome or Safari. _
+*FireFox may not work correctly, especially rendering equations. Please browse with Chrome or Safari.*
 
 ##Machine learning algorighms
 In order to understand theoritically and be able to use knowledge practically, Algorithms were coded from scratch with Python(Pandas, Scipy, Numpy) and figures on the texbook are reproduced from understanding of equations.
