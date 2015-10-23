@@ -25,6 +25,8 @@ Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Informatio
 [5.1 Neural Network](https://github.com/tkazusa/Python_MachineLeaning/blob/master/5.1%20Neural%20netowrks.ipynb)
 
 ##Statistical Analysis
+Statistical analysis was conducted with R package and sample data.
+
 [Generalized linear mixed model](https://github.com/tkazusa/R_Regression/blob/master/Generalized%20linear%20mixed%20model.ipynb)
 
 [Comparison GLM vs Bayesian modeling](https://github.com/tkazusa/R_Regression/blob/master/MCMC_bird.ipynb)
