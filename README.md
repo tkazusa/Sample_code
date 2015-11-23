@@ -5,8 +5,8 @@ In order to show how I understand statistical theories and machine learning argo
 *Firefox may not work correctly, especially rendering equations. Please browse with Chrome or Safari.*
 
 ##Machine learning algorighms
-In order to understand theoritically and be able to use knowledge practically, Algorithms were coded from scratch with Python(Pandas, Scipy, Numpy) and figures on the texbook are reproduced from understanding of equations.
-Algorithms comes from following book. The numbering indicate the capter number of the book.
+In order to understand theoritically and be able to use knowledge practically, algorithms were coded from scratch with Python(Pandas, Scipy, Numpy) and figures on the textbook are reproduced from understanding of equations.
+Algorithms comes from following book. The numbering indicate the chapter number of the book.
 
 <img src="http://i.imgur.com/ooiHoAH.jpg" alt="PRMLル" title="サンプル">
 
