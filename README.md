@@ -24,6 +24,8 @@ Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Informatio
 
 [5.1 Neural Network](https://github.com/tkazusa/Python_MachineLeaning/blob/master/5.1%20Neural%20netowrks.ipynb)
 
+[7.1 Sparse kernel machine](https://github.com/tkazusa/Python_MachineLeaning/blob/master/7.1%20Sparse%20kernel%20machine.ipynb)
+
 ##Statistical Analysis
 Statistical analysis was conducted with R package and sample data.
 
