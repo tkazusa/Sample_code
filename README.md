@@ -27,7 +27,8 @@ Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Informatio
 [7.1 Sparse kernel machine](https://github.com/tkazusa/Python_MachineLeaning/blob/master/7.1%20Sparse%20kernel%20machine.ipynb)
 
 ##Data analysis with Spark
-perform data science and data engineering at PySpark
+Data analysis and engineering at PySpark was performed
+
 [Building word count application](https://github.com/tkazusa/Spark/blob/master/Spark_WordCount_Macbeth.ipynb)
 
 
