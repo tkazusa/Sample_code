@@ -29,6 +29,8 @@ Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Informatio
 ##Data analysis with Spark
 Data analysis and engineering at PySpark was performed
 
+[Click-through rate prediction](https://github.com/tkazusa/Spark/blob/master/CTRPrediction.ipynb)
+
 [Building a word count application](https://github.com/tkazusa/Spark/blob/master/Spark_WordCount_Macbeth.ipynb)
 
 
