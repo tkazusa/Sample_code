@@ -4,6 +4,14 @@ In order to show how I understand statistical theories and machine learning argo
 
 *Firefox may not work correctly, especially rendering equations. Please browse with Chrome or Safari.*
 
+##Data analysis with Spark
+Data analysis and engineering at PySpark was performed
+
+[Click-through rate(CTR) prediction](https://github.com/tkazusa/Spark/blob/master/CTRPrediction.ipynb)
+
+[Building a word count application](https://github.com/tkazusa/Spark/blob/master/Spark_WordCount_Macbeth.ipynb)
+
+
 ##Machine learning algorighms
 In order to understand theoritically and be able to use knowledge practically, algorithms were coded from scratch with Python(Pandas, Scipy, Numpy) and figures on the textbook are reproduced from understanding of equations.
 Algorithms comes from following book. The numbering indicate the chapter number of the book.
@@ -26,12 +34,6 @@ Christopher Bishop. (2007). Pattern Recognition and Machine Learning (Informatio
 
 [7.1 Sparse kernel machine](https://github.com/tkazusa/Python_MachineLeaning/blob/master/7.1%20Sparse%20kernel%20machine.ipynb)
 
-##Data analysis with Spark
-Data analysis and engineering at PySpark was performed
-
-[Click-through rate prediction](https://github.com/tkazusa/Spark/blob/master/CTRPrediction.ipynb)
-
-[Building a word count application](https://github.com/tkazusa/Spark/blob/master/Spark_WordCount_Macbeth.ipynb)
 
 
 ##Statistical Analysis
