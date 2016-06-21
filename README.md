@@ -9,6 +9,8 @@ Data analysis and engineering at PySpark was performed
 
 [Click-through rate(CTR) prediction](https://github.com/tkazusa/Spark/blob/master/CTRPrediction.ipynb)
 
+[Movie Recommendation with MLlib](https://github.com/tkazusa/Spark/blob/master/Predicting%20Movie%20Ratings.ipynb)
+
 [Building a word count application](https://github.com/tkazusa/Spark/blob/master/Spark_WordCount_Macbeth.ipynb)
 
 
