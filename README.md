@@ -46,3 +46,9 @@ Statistical analysis was conducted with R package and sample data.
 [Comparison GLM vs Bayesian modeling](https://github.com/tkazusa/R_Regression/blob/master/MCMC_bird.ipynb)
 
 [State space model with MCMC](https://github.com/tkazusa/R_Regression/blob/master/R_DLM_MCMC_nonfarm_employee.ipynb)
+
+
+##Algorithm coding practiec in Python
+Problems provided by CodingBat(http://codingbat.com/python) were solved.
+
+[Warmup-1](https://github.com/tkazusa/CodingBat/blob/master/Warmup-1.py)
