@@ -52,3 +52,4 @@ Statistical analysis was conducted with R package and sample data.
 Problems provided by CodingBat(http://codingbat.com/python) were solved.
 
 [Warmup-1](https://github.com/tkazusa/CodingBat/blob/master/Warmup-1.py)
+[Warmup-2](https://github.com/tkazusa/CodingBat/blob/master/Warmup-2.py)
