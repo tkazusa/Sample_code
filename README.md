@@ -57,3 +57,13 @@ Problems provided by CodingBat(http://codingbat.com/python) were solved.
 
 [String-1](https://github.com/tkazusa/CodingBat/blob/master/String-1.py)
 
+[String-2](https://github.com/tkazusa/CodingBat/blob/master/String-2.py)
+
+[Logic-1](https://github.com/tkazusa/CodingBat/blob/master/Logic-1.py)
+
+[Logic-2](https://github.com/tkazusa/CodingBat/blob/master/Logic-2.py)
+
+[List-1](https://github.com/tkazusa/CodingBat/blob/master/List-1.py)
+
+[List-2](https://github.com/tkazusa/CodingBat/blob/master/List-2.py)
+
